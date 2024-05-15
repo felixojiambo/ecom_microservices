@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mserve.GatewaySolution.props" />
+</Project>

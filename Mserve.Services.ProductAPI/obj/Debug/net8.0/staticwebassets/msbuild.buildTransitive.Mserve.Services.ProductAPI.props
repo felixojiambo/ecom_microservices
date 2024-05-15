@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mserve.Services.ProductAPI.props" />
+</Project>

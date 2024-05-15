@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7OAUiXh5DOF2vj8uM35zfCDXfKhkoHTQ4Lg9I9eRGcY=",
+  "Source": "Mserve.Services.AuthAPI",
+  "BasePath": "_content/Mserve.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

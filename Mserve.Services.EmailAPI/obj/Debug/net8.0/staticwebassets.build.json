@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ITf1zOidOICrSWtcoScSdl4+wX8K9C9+DjEDD+JWoac=",
+  "Source": "Mserve.Services.EmailAPI",
+  "BasePath": "_content/Mserve.Services.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0LhkTT6e0P/WsDHAAj+creY3V84rcSNGeOwUiyJz0i0=",
+  "Source": "Mserve.Services.CouponAPI",
+  "BasePath": "_content/Mserve.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

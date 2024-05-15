@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gib2irFTWoSIKwtmvBu1faedXYlZ8y4ohBbgk7r0qZ4=",
+  "Source": "Mserve.Services.ShoppingCartAPI",
+  "BasePath": "_content/Mserve.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NgrgqNFKBO04VMiZuC7isDLM3JdFcGTfZkPHFbTkMHA=",
+  "Source": "Mserve.Services.ProductAPI",
+  "BasePath": "_content/Mserve.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

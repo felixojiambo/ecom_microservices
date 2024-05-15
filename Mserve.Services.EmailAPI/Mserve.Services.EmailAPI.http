@@ -1,0 +1,6 @@
+@Mserve.Services.EmailAPI_HostAddress = http://localhost:5023
+
+GET {{Mserve.Services.EmailAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

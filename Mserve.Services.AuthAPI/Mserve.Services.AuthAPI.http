@@ -1,0 +1,6 @@
+@Mserve.Services.AuthAPI_HostAddress = http://localhost:5003
+
+GET {{Mserve.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@Mserve.GatewaySolution_HostAddress = http://localhost:5062
+
+GET {{Mserve.GatewaySolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
